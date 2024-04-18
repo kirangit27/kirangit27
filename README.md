@@ -8,7 +8,7 @@ Presently, I am pursuing a master's degree in Robotics at the University of Mary
 
 - 🔭 I’m currently working on **Occlusion Resilient Object Detection for Industrial Settings**
 
-- 👨‍💻 All of my projects are available at [portfolio link](https://kirangit27.github.io/kiranpatil.github.io/)
+- 👨‍💻 My projects are available at [portfolio link](https://kirangit27.github.io/kiranpatil.github.io/)
 
 - 📫 How to reach me **kiran.suvas.patil@gmail.com**
 
