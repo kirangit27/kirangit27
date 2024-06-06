@@ -12,7 +12,7 @@ Presently, I am pursuing a master's degree in Robotics at the University of Mary
 
 - 📫 How to reach me **kiran.suvas.patil@gmail.com**
 
-- 📄 Know about my experiences [resume link](https://github.com/kirangit27/kiranpatil.github.io/blob/master/pdf/kiran-resume.pdf)
+- 📄 Know about my experiences [resume link](https://github.com/kirangit27/kiranpatil.github.io/blob/master/pdf/Kiran_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
