@@ -24,6 +24,9 @@ Presently, I am pursuing a master's degree in Robotics at the University of Mary
   <img align="left" alt="c" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="left" alt="cplusplus" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="left" alt="python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="left" alt="embeddedc" width="50px" style="padding-right:10px;"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-original-wordmark.svg" />
+  
+          
   <br></br>
 
 - #### AI/ML/DL/CV
@@ -52,7 +55,9 @@ Presently, I am pursuing a master's degree in Robotics at the University of Mary
    <img align="left" alt="bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />                
    <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />       
    <img align="left" alt="docker" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
+   <img align="left" alt="aws" width="50px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+   
+          
   <br></br>
   <br></br>
   
